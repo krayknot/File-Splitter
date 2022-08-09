@@ -1,0 +1,13 @@
+FrmSplitter = 66, 87, 741, 584, C, 44, 58, 679, 555, C
+variables = 110, 145, 745, 642, C
+frmSplash = 242, 242, 749, 738, C, 220, 220, 727, 716, C
+Class1 = 132, 132, 652, 574, C
+frmAbout = 0, 0, 0, 0, C, 23, 23, 715, 488, C
+frmSplit = 0, 0, 0, 0, C, 161, 161, 853, 626, C
+frmBar = 0, 0, 0, 0, C, 46, 46, 738, 511, C
+UserControl1 = 0, 0, 0, 0, C, 0, 0, 692, 465, C
+frmMsgBox = 0, 0, 0, 0, C, 92, 92, 784, 557, C
+Globals = 0, 0, 0, 0, C
+frmRejoin = 0, 0, 0, 0, C, 115, 115, 807, 580, C
+frmFileOpenDialog = 0, 0, 0, 0, C, 69, 69, 761, 534, C
+frmFolderOpenDialog = 0, 0, 0, 0, C, 92, 92, 784, 557, C
